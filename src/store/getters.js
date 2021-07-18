@@ -1,0 +1,8 @@
+const getters = {
+    
+}
+
+
+export {
+    getters
+}
